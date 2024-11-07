@@ -23,7 +23,7 @@
 
 ⚙️ CI/CD & Automation: Jenkins, GitHub Action
 
-📈 Specialties: Machine Learning, Deep Learning, NLP, Time Series, Computer Vision, Recommendation System, AutoML, MLOps
+📈 Specialties: Machine Learning, Deep Learning, Generative AI, NLP, LLM,Time Series, Computer Vision, Recommendation System, AutoML, MLOps
 
 🌍 Interests: AI ethics, data-driven decision-making, and contributing to open-source.
 
