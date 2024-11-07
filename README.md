@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 
-**sudkc37/sudkc37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
-Here are some ideas to get you started:
+🚀 Machine Learning Engineer | Data Scientist
+🔍 Passionate about applying machine learning algorithms, deep learning, and data science to solve real-world problems.
+📊 Experienced in building end-to-end ML pipelines, from data preprocessing to model deployment.
+🧠 Expertise in supervised and unsupervised learning, neural networks, time series analysis, and NLP.
+💡 Always exploring new tools and techniques to push the boundaries of AI and ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+🔧 Languages: Python, R, SQL
+📚 Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+💻 Tools: Docker, Kubernetes, AWS, Azure, Git
+📈 Specialties: Machine Learning, Deep Learning, NLP, Time Series, Computer Vision, AutoML, MLOps
+🌍 Interests: AI ethics, data-driven decision-making, and contributing to open-source.
