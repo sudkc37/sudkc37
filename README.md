@@ -17,7 +17,7 @@
 
 🔧 Languages: Python, R, SQL
 
-📚 Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, NLTK, HuggingFace, SHAP
+📚 Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, NLTK, HuggingFace, SHAP, DICE
 
 💻 Tools: Docker, Kubernetes, AWS, Azure, Git
 
