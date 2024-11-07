@@ -29,4 +29,4 @@
 
 ## 🎓 🎓Education:
 
-University of Maryland, College Park, Maryland
+University of Maryland, College Park, Maryland -- Master’s Degree 🧑‍🎓🏅
