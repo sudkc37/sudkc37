@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 **Currently working on:**  
+- Building an **Face Recognition System** for sentiment analysis  
 
 ## 🚀 Machine Learning Engineer | Data Scientist
 
