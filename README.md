@@ -15,7 +15,7 @@
 
 ## Tech Stack:
 
-🔧 Languages: Python, R, SQL
+🔧 Languages: Python, SQL, HTML
 
 📚 Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Scipy, NLTK, Matplotlib, Seaborn, HuggingFace, SHAP, DICE
 
