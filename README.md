@@ -5,7 +5,7 @@
 
 ## 🚀 Machine Learning Engineer | Data Scientist
 
-🔍 Passionate about applying machine learning algorithms, deep learning, and data science to solve real-world problems.
+🔍 Passionate about applying machine learning algorithms, deep learning, Explainable AI and data science to solve real-world problems.
 
 📊 Experienced in building end-to-end ML pipelines, from data preprocessing to model deployment.
 
