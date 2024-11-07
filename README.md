@@ -26,3 +26,7 @@
 📈 Specialties: Machine Learning, Deep Learning, NLP, Time Series, Computer Vision, Recommendation System, AutoML, MLOps
 
 🌍 Interests: AI ethics, data-driven decision-making, and contributing to open-source.
+
+## 🎓 🎓Education:
+
+University of Maryland, College Park, Maryland
