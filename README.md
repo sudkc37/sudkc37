@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 **Currently working on:**  
-- Building a **Medical Imaging** for user  .
+- Building a **Medical Imaging** for Disease Detection and Diagnosis.  .
 
 ## 🚀 Machine Learning Engineer | Data Scientist
 
