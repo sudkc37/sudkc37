@@ -17,7 +17,7 @@
 
 🔧 Languages: Python, SQL, HTML
 
-📚 Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Scipy, NLTK, Matplotlib, Seaborn, HuggingFace, SHAP, DICE
+📚 Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Scipy, NLTK, Matplotlib, Seaborn, HuggingFace, SHAP, DICE, Lifelines
 
 💻 Tools: Docker, Kubernetes, AWS, Azure, Git
 
