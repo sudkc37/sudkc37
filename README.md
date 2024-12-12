@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-🔭 **Currently working on:**  
-- Building a **Medical Imaging** for Disease Detection and Diagnosis - Image Segmentation 🧬🔬🔍 🩻.
-
 ## 🚀 Machine Learning Engineer | Data Scientist
 
 🔍 Passionate about applying machine learning algorithms, deep learning, Explainable AI and data science to solve real-world problems.
