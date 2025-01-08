@@ -6,7 +6,7 @@
 
 📊 Experienced in building end-to-end ML pipelines, from data preprocessing to model deployment.
 
-🧠 Expertise in supervised and unsupervised learning, neural networks, time series analysis, and NLP.
+🧠 Expertise in supervised and unsupervised learning, neural networks, time series analysis, Recommendation System and NLP.
 
 💡 Always exploring new tools and techniques to push the boundaries of AI and ML.
 
@@ -20,7 +20,7 @@
 
 ⚙️ CI/CD & Automation: Jenkins, GitHub Action
 
-📈 Specialties: Machine Learning, Deep Learning, Generative AI, NLP, LLM,Time Series, Computer Vision, Recommendation System, AutoML, MLOps
+📈 Specialties: Machine Learning, Deep Learning, Generative AI, NLP, LLM,Time Series, Computer Vision, Recommendation System, Automated Auction System, AutoML, MLOps
 
 🌍 Interests: AI ethics, data-driven decision-making, and contributing to open-source.
 
