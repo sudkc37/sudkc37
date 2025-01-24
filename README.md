@@ -7,10 +7,15 @@ I’m on a mission to turn complex data into actionable insights and cutting-edg
 ## 🌟 What I Bring to the Table
 
 🎯 Supervised & Unsupervised Learning: Delivering predictive and analytical models that work.
+
 ⏳ Time Series Analysis: Decoding trends and patterns in temporal data.
+
 🗣️ NLP & Large Language Models (LLMs): Unlocking the power of text with advanced AI.
+
 🎨 Generative AI: Designing creative solutions with GANs and Autoencoders.
+
 ⚙️ MLOps & Automation: Scaling machine learning with robust, automated pipelines.
+
 📈 Recommendation Systems & Computer Vision: Creating data-driven, user-focused experiences.
 
 
@@ -19,7 +24,9 @@ I’m on a mission to turn complex data into actionable insights and cutting-edg
 Libraries & Frameworks
 
 ✨ TensorFlow | PyTorch | Hugging Face
+
 📊 Scikit-learn | Pandas | NumPy | SciPy
+
 📚 NLTK | Matplotlib | Seaborn | SHAP | DICE | Lifelines
 
 
