@@ -45,14 +45,6 @@ Computer Vision 🖼️
 🎓 Master’s Degree 
 🏫 University of Maryland, College Park, Maryland
 
-Machine Learning 🤖
-Deep Learning & Generative AI 🎨
-NLP & LLMs 🗣️
-Time Series Forecasting ⏳
-Explainable AI (XAI) 🔍
-MLOps & Automation ⚙️
-Recommendation Systems 🎯
-Computer Vision 🖼️
 
 ## ✨ Let’s Collaborate!
 
