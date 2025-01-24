@@ -23,7 +23,7 @@ I’m on a mission to turn complex data into actionable insights and cutting-edg
 
 Libraries & Frameworks
 
-✨ TensorFlow | PyTorch | Hugging Face
+✨ TensorFlow | PyTorch | Hugging Face | Transformer
 
 📊 Scikit-learn | Pandas | NumPy | SciPy
 
