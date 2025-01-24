@@ -33,7 +33,7 @@ MLOps & Automation ⚙️
 Recommendation Systems 🎯
 Computer Vision 🖼️
 
-##🌍 What Drives Me
+## 🌍 What Drives Me
 
 🌐 AI Ethics: Building responsible AI that inspires trust.
 📊 Data-Driven Decision Making: Empowering smarter choices with analytics.
