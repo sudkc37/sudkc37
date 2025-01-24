@@ -25,18 +25,27 @@ Libraries & Frameworks
 
 ## 🎯 Key Expertise
 Machine Learning 🤖
+
 Deep Learning & Generative AI 🎨
+
 NLP & LLMs 🗣️
+
 Time Series Forecasting ⏳
+
 Explainable AI (XAI) 🔍
+
 MLOps & Automation ⚙️
+
 Recommendation Systems 🎯
+
 Computer Vision 🖼️
 
 ## 🌍 What Drives Me
 
 🌐 AI Ethics: Building responsible AI that inspires trust.
+
 📊 Data-Driven Decision Making: Empowering smarter choices with analytics.
+
 🤝 Open Source: Sharing knowledge and giving back to the tech community.
 
 
