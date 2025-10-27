@@ -6,11 +6,11 @@ I turn complex data into real-world solutions through machine learning, automati
 
 ## 🌍 What Drives Me
 
-🌐 AI Ethics: Building responsible AI that inspires trust.
+🧠 Responsible AI: Advancing trustworthy, transparent, and fair AI systems.
 
-📊 Data-Driven Decision Making: Empowering smarter choices with analytics.
+🎯 Reinforcement Learning: Designing intelligent agents that learn from interaction and optimize long-term rewards.
 
-🤝 Open Source: Sharing knowledge and giving back to the tech community.
+📐 Mathematical Modeling: Using quantitative reasoning to explain, simulate, and improve real-world systems.
 
 
 ## 🎓 Education
@@ -19,10 +19,4 @@ I turn complex data into real-world solutions through machine learning, automati
 🏫 University of Maryland, College Park, Maryland
 
 
-## ✨ Let’s Collaborate!
-
-🚀 Whether you're working on an innovative project or need insights to tackle a complex problem, I’m always up for a challenge!
-
-
-Together, we can build something extraordinary! 🙌
 
