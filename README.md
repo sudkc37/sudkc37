@@ -1,6 +1,6 @@
 ## 👋 Hello, World! Welcome to My GitHub! 🚀
 
-## 💻 Machine Learning Engineer | Data Scientist 
+## Quantitative Researchers | Data Scientist 
 
 I turn complex data into real-world solutions through machine learning, automation, and explainable AI. Curious by nature, I love building intelligent systems that inspire trust and innovation. 🌟
 
