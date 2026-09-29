@@ -20,5 +20,6 @@ I turn complex data into real-world solutions through machine learning, automati
 🏫 University of Maryland, College Park, Maryland
 
 Publication:
+
 A Multi-Component Reward Function with Policy Gradient for Automated Feature Selection with Dynamic Regularization and Bias Mitigation. https://arxiv.org/abs/2510.09705
 
